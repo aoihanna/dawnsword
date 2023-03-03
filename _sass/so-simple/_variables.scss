@@ -39,7 +39,7 @@ $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
 $serif-font-family: "Lora",'Noto Serif SC', serif !default;
-$sans-serif-font-family: "Source Sans Pro", sans-serif !default;
+$sans-serif-font-family: "Source Sans Pro",'Noto Serif SC', sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
 

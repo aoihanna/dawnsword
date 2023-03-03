@@ -21,7 +21,7 @@ locale: en-US
 title: "Dream a little dream"
 description: "Stories on the journey"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://aoihanna.github.io
+url: https://aoihanna.github.io/dawnsword
 logo: "/assets/img/mountain.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
