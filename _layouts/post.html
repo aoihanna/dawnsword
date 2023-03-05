@@ -25,6 +25,9 @@ layout: default
         <div class="e-content">
           {{ content }}
         </div>
+         
+        Last modified: {{ page.last_modified_at | date: '%B %-d, %Y %R:%S' }}
+        
 
         {% if page.share %}
           {% include social-share.html %}
