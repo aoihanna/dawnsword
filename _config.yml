@@ -105,3 +105,20 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+# compse default output setting
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description:
+      image:
+      category:
+      tags:
+    posts:
+      layout: post
+      title: 
+      excerpt: 
+      image: 
+       - thumbnail: /images/2023/230305-scenery on the road.jpeg
+      description:
+      category:
+      tags:
